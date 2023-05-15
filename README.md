@@ -3,8 +3,7 @@
   <img src="https://github.com/ColterD/ColterD/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <td align="center">
-  <img height="50" alt="My Name is Colter and I like Python" src="images/personal_note.svg" />
+  <img align="center" height="50" alt="My Name is Colter and I like Python" src="images/personal_note.svg" />
   <br />
   <br />
 
