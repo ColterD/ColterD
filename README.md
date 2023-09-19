@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://colter.dev">
+<a href="https://github.com/ColterD">
 <strong>Visit my personal website </strong>
 <br />
 <br />
