@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="[https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO](https://www.youtube.com/watch?v=qLrnkK2YEcE)">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Listen to cool music</strong>
 <br />
 <br />
