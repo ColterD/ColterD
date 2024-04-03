@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **colterdahlberg@gmail.com**
 
-- 📄 Want to see my resume? [(https://mega.nz/file/zU5FnbjL#ekwgInMcRSgW1v8ZLI2_9sWL_iuhoC6azw4gd7Y2w6Y)](Colter Dahlberg Resume 2024)
+- 📄 Want to see my resume? https://mega.nz/file/zU5FnbjL#ekwgInMcRSgW1v8ZLI2_9sWL_iuhoC6azw4gd7Y2w6Y
 
 - ⚡ Fun fact **I love coding and system administration!**
 
