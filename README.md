@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colterd&label=Profile%20views&color=0e75b6&style=flat" alt="colterd" /> </p>
 
-- 🔭 I’m currently working on **stuff!**
+- 🔭 I’m currently working on **automating the tedious stuff!**
 
-- 🌱 I’m currently learning **Python and nodeJS!**
+- 🌱 I’m currently learning **Python!**
 
 - 📫 How to reach me **colterdahlberg@gmail.com**
 
