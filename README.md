@@ -12,7 +12,7 @@
 - **Currently Working On**: Automating daily workflows!
 - **Learning**: Python and Powershell to deepen scripting skills
 - **Contact**: [colterdahlberg@gmail.com](mailto:colterdahlberg@gmail.com)
-- **Resume**: 📄 <a href="https://github.com/colterd/colterd/blob/main/Colter_Dahlberg_Resume.pdf" style="text-decoration:none">View My Resume</a>
+- **Resume**: 📄 <a href="https://github.com/ColterD/ColterD/blob/master/Colter_Dahlberg_Resume_2024.pdf" style="text-decoration:none">View My Resume</a>
 - **Fun Fact**: I love diving into system administration and coding!
 
 ---
