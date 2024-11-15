@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Colter</h1>
-<h3 align="center">Passionate about automation, open-source, and clean code.</h3>
-<p align="center">I enjoy solving problems and exploring new tech.</p>
+<h3 align="center">Passionate about automation, information security, and clean code.</h3>
+<p align="center">I enjoy solving problems and exploring new technologies in healthcare IT.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=colterd&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -9,22 +9,23 @@
 ---
 
 ### 🛠️ About Me
-- **Currently Working On**: Automating daily workflows!
-- **Learning**: Python and Powershell to deepen scripting skills
+- **Profession**: Windows Systems Engineer with 11 years of IT experience, including 6 years in healthcare.
+- **Currently Working On**: Automating daily workflows to enhance system efficiency and security.
+- **Learning**: Advanced Python and PowerShell to deepen scripting and automation skills.
 - **Contact**: [colterdahlberg@gmail.com](mailto:colterdahlberg@gmail.com)
-- **Resume**: 📄 <a href="https://github.com/ColterD/ColterD/blob/master/Colter_Dahlberg_Resume_2024.pdf" style="text-decoration:none">View My Resume</a>
-- **Fun Fact**: I love diving into system administration and coding!
+- **Resume**: 📄 [View My Resume](https://github.com/ColterD/ColterD/blob/master/Colter_Dahlberg_Resume_2024.pdf)
+- **Passion**: Enhancing system reliability and security through automation and clean code.
 
 ---
 
 ### 🌱 Current Focus
-- Advanced Python for automation
-- Docker orchestration & container management
+- Advanced Python for automation and scripting
+- Enhancing system performance and security through automation
 
 ### 👀 Areas of Interest
-- Open-source collaborations
-- Scalable automation projects
-- System performance optimizations
+- Open-source collaborations in healthcare IT
+- Scalable automation and scripting projects
+- System performance and security optimizations
 
 ---
 
@@ -33,8 +34,8 @@
   <a href="https://linkedin.com/in/colter-dahlberg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/wedoitlive" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="mailto:colterdahlberg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -42,22 +43,16 @@
 
 ### 🛠️ Languages and Tools
 <div align="left">
-  <img src="https://img.shields.io/badge/-Bash-333?logo=gnubash&logoColor=white&style=for-the-badge" alt="Bash" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="NGINX" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D4?logo=windows-server&logoColor=white&style=for-the-badge" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge" alt="PowerShell" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/-SCCM-0078D4?logo=microsoft-sccm&logoColor=white&style=for-the-badge" alt="SCCM" />
+  <img src="https://img.shields.io/badge/-ServiceNow-003366?logo=servicenow&logoColor=white&style=for-the-badge" alt="ServiceNow" />
+  <img src="https://img.shields.io/badge/-SolarWinds-FBB917?logo=solarwinds&logoColor=white&style=for-the-badge" alt="SolarWinds" />
+  <img src="https://img.shields.io/badge/-Tenable_Nessus-0052CC?logo=tenable&logoColor=white&style=for-the-badge" alt="Tenable Nessus" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/-Vulnerability_Assessment-FF0000?logo=shield&logoColor=white&style=for-the-badge" alt="Vulnerability Assessment" />
+  <img src="https://img.shields.io/badge/-Project_Management-4CAF50?logo=trello&logoColor=white&style=for-the-badge" alt="Project Management" />
 </div>
 
 ---
@@ -81,7 +76,7 @@
 
 ### 🏆 Badges
 <div align="left">
-  <img src="https://img.shields.io/badge/Automation-Enthusiast-green?logo=fastapi&logoColor=white" alt="Automation" />
-  <img src="https://img.shields.io/badge/Python-Beginner-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Automation-Expert-green?logo=fastapi&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-Intermediate-blue?logo=docker&logoColor=white" alt="Docker" />
 </div>
