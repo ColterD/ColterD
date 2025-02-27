@@ -12,12 +12,12 @@
 
 ### 🛠️ About Me
 
-*   **Profession:**  **Windows System Engineer** with over 12 years in IT, including 6+ years specializing in **healthcare IT**.
+*   **Profession:**  **Windows System Engineer** with over 11 years in IT, including 7+ years specializing in **healthcare IT**.
 *   **Expertise:**  **Windows Server Administration**, **Active Directory** Management, **Virtualization** (**VMware vSphere**, **Hyper-V**), **IT Service Management** (**ServiceNow**), **Cybersecurity**, **Compliance** (**HIPAA**), **Scripting & Automation** (**PowerShell**, **Python**).
 *   **Experience:**  Baylor Scott & White, Solventum (3M), U.S. Dept. of Veterans Affairs, Ballinger Memorial Hospital.
 *   **Currently Focused On:**  Automating IT infrastructure to enhance system efficiency, security, and reliability within healthcare settings.
 *   **Learning:**  Continuously expanding my knowledge in advanced automation techniques, cloud technologies, and cybersecurity best practices.
-*   **Resume:** 📄 [View My Resume](https://rxresu.me/colterdahlberg/colter-dahlberg-resume-2024)
+*   **LinkedIn** 📄 [View My Resume](https://www.linkedin.com/in/colter-dahlberg/)
 
 ---
 
