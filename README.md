@@ -17,7 +17,7 @@
 *   **Experience:**  Baylor Scott & White, Solventum (3M), U.S. Dept. of Veterans Affairs, Ballinger Memorial Hospital.
 *   **Currently Focused On:**  Automating IT infrastructure to enhance system efficiency, security, and reliability within healthcare settings.
 *   **Learning:**  Continuously expanding my knowledge in advanced automation techniques, cloud technologies, and cybersecurity best practices.
-*   **LinkedIn** 📄 [View My Resume](https://www.linkedin.com/in/colter-dahlberg/)
+*   **LinkedIn** 📄 [View My Profile](https://www.linkedin.com/in/colter-dahlberg/)
 
 ---
 
